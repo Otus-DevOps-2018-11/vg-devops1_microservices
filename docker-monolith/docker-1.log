@@ -1,0 +1,4 @@
+REPOSITORY              TAG                 IMAGE ID            CREATED             SIZE
+vagif/ubuntu-tmp-file   latest              a5e625a8867d        35 seconds ago      117MB
+ubuntu                  16.04               7e87e2b3bf7a        4 weeks ago         117MB
+hello-world             latest              fce289e99eb9        7 weeks ago         1.84kB
